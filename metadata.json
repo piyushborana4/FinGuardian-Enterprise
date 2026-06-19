@@ -1,0 +1,6 @@
+{
+  "name": "FinGuardian AI",
+  "description": "Enterprise-grade financial intelligence, scam detection, ledger analysis, and real-time security scanning platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
