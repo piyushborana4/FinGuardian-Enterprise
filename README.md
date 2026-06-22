@@ -1,20 +1,117 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# FinGuardian AI
 
-# Run and deploy your AI Studio app
+## AI-Powered Financial Intelligence & Scam Protection Platform
 
-This contains everything you need to run your app locally.
+### Overview
 
-View your app in AI Studio: https://ai.studio/apps/457ffb7d-e300-40ea-af44-4fe5d68a1da2
+FinGuardian AI is an intelligent fintech platform that combines Artificial Intelligence, Financial Analytics, Cybersecurity, and Financial Education into a unified ecosystem.
 
-## Run Locally
+The platform helps users:
 
-**Prerequisites:**  Node.js
+- Analyze bank statements
+- Track expenses
+- Detect financial scams
+- Improve financial literacy
+- Forecast future wealth
+- Achieve financial goals
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Problem Statement
+
+Millions of individuals struggle with:
+
+- Budgeting
+- Savings Planning
+- Wealth Management
+- Financial Literacy
+- Scam Detection
+
+Existing solutions address these challenges separately.
+
+FinGuardian AI integrates all of them into a single intelligent platform.
+
+---
+
+## Key Features
+
+### Financial Command Center
+Complete financial overview dashboard.
+
+### Ledger Intelligence Engine
+AI-powered bank statement analysis.
+
+### Scam Intelligence Center
+SMS, Email, URL and Screenshot fraud detection.
+
+### Financial Copilot
+AI-powered financial advisor.
+
+### Wealth Planning Studio
+Goal planning and tracking.
+
+### Wealth Projection Engine
+Future wealth forecasting.
+
+### Financial Knowledge Center
+Personalized financial education.
+
+### Security Center
+Enterprise-grade security dashboard.
+
+---
+
+## Technology Stack
+
+### Frontend
+
+- Next.js 15
+- TypeScript
+- Tailwind CSS
+- ShadCN UI
+- Framer Motion
+
+### Backend
+
+- Firebase
+- Cloud Functions
+
+### Database
+
+- Firestore
+
+### Artificial Intelligence
+
+- Gemini 2.5 Pro
+
+### Security
+
+- AES-256
+- TLS 1.3
+- MFA
+- RBAC
+- Zero Trust
+
+---
+
+## Installation
+
+npm install
+
+npm run dev
+
+---
+
+## Team
+
+Weekend Coders
+
+---
+
+## Domains
+
+- Artificial Intelligence
+- FinTech
+- Cybersecurity
+- Social Impact
+
